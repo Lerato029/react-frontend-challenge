@@ -21,8 +21,9 @@
 
 ### Functionality
 - Create a user by clicking on the button
+- ![running (8)](https://user-images.githubusercontent.com/79574031/131267990-967664fd-3878-4fa6-896b-cecf530a6b2b.png)
 ![running (7)](https://user-images.githubusercontent.com/79574031/131267988-ad63ecd0-e198-44dc-afed-7e33163d363d.png)
-![running (8)](https://user-images.githubusercontent.com/79574031/131267990-967664fd-3878-4fa6-896b-cecf530a6b2b.png)
+
 
 
 - Update user by clicking on the name of the user
@@ -31,5 +32,5 @@
 ![running (5)](https://user-images.githubusercontent.com/79574031/131267983-e8ede3e9-412f-4322-a66a-90fe073728ca.png)
 
 - Delete user by clicking on the delete icon
-![Screenshot 2021-06-08 06 53 13](https://user-images.githubusercontent.com/79574031/131268057-05482333-623a-4900-b622-551864858c6f.png)
+![running (1)](https://user-images.githubusercontent.com/79574031/131267918-2021b94b-a534-4898-ad55-a4146473e9ca.png)
 
